@@ -1,0 +1,19 @@
+.jumbotron img{
+    width: 200px;
+}
+
+.jumbotron{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;;
+}
+
+.judul{
+    text-align: center;
+    min-width: 600px;
+}
+
+.judul hr{
+    width: 200px;
+    border: chartreuse;
+}
+
